@@ -8,6 +8,8 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ## Analysis and Challenges
 
+
+
 ### Analysis of Outcomes Based on Launch Date
 
 ![image](Resources/Theater_Outcomes_vs_Launch.png)
@@ -18,12 +20,23 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ### Challenges and Difficulties Encountered
 
+`human error`
+
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. Outcomes based on Launch Date Conclusions
 
-- What can you conclude about the Outcomes based on Goals?
+-
+-
 
-- What are some limitations of this dataset?
+2. Outcomes based on Goals Conclusion
 
-- What are some other possible tables and/or graphs that we could create?
+- 
+
+3. Dataset limitations
+
+-
+
+4. Further Analysis
+
+- possible tables and/or graphs that we could create
