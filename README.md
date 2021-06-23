@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
 Louise recently wrapped up a kickstarter campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical kickstarter campaign data to analyse. Louise is particularly interested in how campaign performed by launch date and funding goals.
