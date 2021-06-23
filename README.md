@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise recently wrapped up a kickstarter campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me provideding me with an excel file with historical kickstarter campaigns to analyse. Louise is particularly interested in how campaign performed by launch date and funding goals.
+Louise recently wrapped up a kickstarter campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical kickstarter campaign data to analyse. Louise is particularly interested in how campaign performed by launch date and funding goals.
 
 ### Purpose
 In order to glean characteristics from the provided sample of kickstarter campaigns, I used excel to clean, filter, visualize, and analyze provided crowdfunding data with the end goal of answering Louise's key questions and further, provide her with actionable insights she can use when designing future kickstarter campaigns.
