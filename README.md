@@ -10,7 +10,7 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ### Analysis of Outcomes Based on Launch Date
 
-![image](path/to/image_name.png)
+![image](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
