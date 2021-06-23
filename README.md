@@ -28,19 +28,19 @@ In order to glean characteristics from the provided sample of kickstarter campai
 
 ## Results
 
-#### 1. Outcomes based on Launch Date Conclusions
+#### Outcomes based on Launch Date Conclusions
 
 -
 -
 
-#### 2. Outcomes based on Goals Conclusion
+#### Outcomes based on Goals Conclusion
 
 - 
 
-#### 3. Dataset limitations
+#### Dataset limitations
 
 -
 
-#### 4. Further Analysis
+#### Further Analysis
 
 - possible tables and/or graphs that we could create
