@@ -24,19 +24,19 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ## Results
 
-1. Outcomes based on Launch Date Conclusions
+#### 1. Outcomes based on Launch Date Conclusions
 
 -
 -
 
-2. Outcomes based on Goals Conclusion
+#### 2. Outcomes based on Goals Conclusion
 
 - 
 
-3. Dataset limitations
+#### 3. Dataset limitations
 
 -
 
-4. Further Analysis
+#### 4. Further Analysis
 
 - possible tables and/or graphs that we could create
