@@ -6,34 +6,42 @@ Louise recently wrapped up a kickstarter campaign for her play, ‘Fever’. It 
 ### Purpose
 In order to glean characteristics from the provided sample of kickstarter campaigns, I used excel to clean, filter, visualize, and analyze provided crowdfunding data with the end goal of answering Louise's key questions and further, provide her with actionable insights she can use when designing future kickstarter campaigns.
 
+---
+
 ## Analysis and Challenges
 
+#### About Dataset
+- The provided dataset included more info than needed. 
+
 #### Overview of Analysis: 
-- [Provided data included xyz, more info than needed. I used xyz
+- Filtered to better address Louise's curiousity.
+- [Pivots to illustrate trends.]
 
 #### Challenges Encountered:  
 - I encountered challenges when performing my analysis. Such difficulties included human error, namely typos in my excel formulas, and having to convert [name timestamp] to data type more manageable. [how they were overcome.]
 
 ### Analysis of Outcomes Based on Launch Date
 
+The below line charts illustrates XYZ.
+
 ![image 1](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
+The below line charts illustrates XYZ.
+
 ![image](Resources/Outcomes_vs_Goals.png)
 
-### Challenges and Difficulties Encountered
-
-`human error`
+---
 
 ## Results
 
-#### Outcomes based on Launch Date Conclusions
+#### Conclusions: Outcomes based on Launch Date
 
 -
 -
 
-#### Outcomes based on Goals Conclusion
+#### Conclusion: Outcomes based on Goals
 
 - 
 
@@ -43,4 +51,4 @@ In order to glean characteristics from the provided sample of kickstarter campai
 
 #### Further Analysis
 
-- possible tables and/or graphs that we could create
+- [possible tables and/or graphs that we could create]
