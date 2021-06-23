@@ -14,7 +14,7 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ### Analysis of Outcomes Based on Goals
 
-![image](path/to/image_name.png)
+![image](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
