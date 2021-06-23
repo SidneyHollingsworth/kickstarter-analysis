@@ -13,7 +13,6 @@ In order to glean characteristics of historic successful crowdfunding campaigns,
 
 ### Analysis of Outcomes Based on Goals
 
-https://github.com/SidneyHollingsworth/kickstarter-analysis/blob/a247ee4ba7cc314d5054b125bae89bb42bdef085/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 
