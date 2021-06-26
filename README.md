@@ -4,7 +4,7 @@
 Louise recently wrapped up a Kickstarter crowdfunding campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical kickstarter campaign data to analyse.
 
 ### Purpose
-The purpose of this analysis is to glean characteristics of sucessful kickstar campaigns. Louise is particularly interested in how campaigns performed by launch date and funding goals. 
+The purpose of this analysis is to glean characteristics of sucessful kickstar campaigns in order to answer Louise's particularly interested in how campaigns performed by launch date and funding goals. 
 
 ---
 
