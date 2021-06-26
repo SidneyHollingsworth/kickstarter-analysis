@@ -10,11 +10,12 @@ The purpose of this analysis is to glean characteristics of kickstar campaigns. 
 
 #### Overview of Analysis: 
 
-To answer Louise's key questions and further, provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
+To answer Louise's key questions and provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
 
-- Prior to performing my analysis, I need to clean and manipulate the Excel file. The provided dataset included more information than needed. Lots of different types of campaigns. Best to filter data and analysis to Theater Parent Catergory and Play Sub Category.
+Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, [thing] needed to be converted to [b], a more manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application,  
 - First had to manipulate and filter data. Data manipulation included splitting text and time stamp conversion.
-- To best address Louise's key questions, I created two pivots then line charts for visualization to better identify trends
+
+- To best address Louise's key questions, I created two pivot charts to create a line chart visualization from each.
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -47,7 +48,7 @@ The below line chart illustrates Outcomes Based on Goals.
 
 ### Dataset limitations
 
-- It's important to note that this analysis is quite limited. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
+It's important to note that this analysis is quite limited and my conclusions lack validity in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
 - Assumes quality and tactics of all campaigns held equal.
 - Small sample size amongst campaigns with larger goal. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
 - Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
