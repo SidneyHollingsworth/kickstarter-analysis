@@ -12,7 +12,7 @@ The purpose of this analysis is to glean characteristics of kickstar campaigns. 
 
 To answer Louise's key questions and further, provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
 
-- The provided dataset included more information than needed. Lots of different types of campaigns. Best to filter data and analysis to Theater Parent Catergory and Play Sub Category.
+- Prior to performing my analysis, I need to clean and manipulate the Excel file. The provided dataset included more information than needed. Lots of different types of campaigns. Best to filter data and analysis to Theater Parent Catergory and Play Sub Category.
 - First had to manipulate and filter data. Data manipulation included splitting text and time stamp conversion.
 - To best address Louise's key questions, I created two pivots then line charts for visualization to better identify trends
 
@@ -47,7 +47,8 @@ The below line chart illustrates Outcomes Based on Goals.
 
 ### Dataset limitations
 
-- This project was particularly challenging to me as per the many unknowns; my analysis assumes quality and tactics of all campaigns held equal.
+- It's important to note that this analysis is quite limited. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
+- Assumes quality and tactics of all campaigns held equal.
 - Small sample size amongst campaigns with larger goal. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
 - Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
 - Outcome of campaigns categorical rather than analysized by difference of pledged from goal
