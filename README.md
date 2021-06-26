@@ -4,7 +4,7 @@
 Louise recently wrapped up a Kickstarter crowdfunding campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical kickstarter campaign data to analyse.
 
 ### Purpose
-The purpose of this analysis is to glean characteristics of sucessful kickstar campaigns in order to answer Louise's particularly interested in how campaigns performed by launch date and funding goals. 
+The purpose of this analysis is to glean characteristics of kickstar campaigns. Louise is particularly interested in how campaigns performed by launch date and funding goals. 
 
 ---
 
@@ -33,8 +33,8 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Conclusions: Outcomes based on Launch Date
 
-- May and June Theater launches performed best.
-- Decline in November and December
+- Theater campaigns launched during the months of May and June performed best while theater campaigns launched during the months of November and December performed worst.
+- 
 
 #### Conclusion: Outcomes based on Goals
 
@@ -46,7 +46,7 @@ The below line chart illustrates Outcomes Based on Goals.
 
 ### Dataset limitations
 
-- Many unknowns; analysis assumes quality and tactics of all campaigns held equal
+- This project was particularly challenging to me as per the many unknowns; my analysis assumes quality and tactics of all campaigns held equal.
 - Small sample size amongst campaigns with larger goal. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
 - Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
 - Outcome of campaigns categorical rather than analysized by difference of pledged from goal
