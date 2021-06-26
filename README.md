@@ -10,7 +10,8 @@ The purpose of this analysis is to glean characteristics of kickstar campaigns. 
 
 #### Overview of Analysis: 
 
-- I used excel to manipulate, visualize, and analyze provided data with the end goal of answering Louise's key questions and further, providing her with actionable insights she can use when designing future kickstarter campaigns.
+To answer Louise's key questions and further, provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
+
 - The provided dataset included more information than needed. Lots of different types of campaigns. Best to filter data and analysis to Theater Parent Catergory and Play Sub Category.
 - First had to manipulate and filter data. Data manipulation included splitting text and time stamp conversion.
 - To best address Louise's key questions, I created two pivots then line charts for visualization to better identify trends
