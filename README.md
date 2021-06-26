@@ -8,12 +8,11 @@ The purpose of this analysis is to glean characteristics of kickstar campaigns. 
 
 ---
 
-#### Overview of Analysis: 
+### Overview of Analysis: 
 
 To answer Louise's key questions and provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
 
-Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, [thing] needed to be converted to [b], a more manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application,  
-- First had to manipulate and filter data. Data manipulation included splitting text and time stamp conversion.
+Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, provided Unix Timestamp needed to be converted to a more readable and manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application, I either filtered to Theater Parent Category or Play Sub Category.  
 
 - To best address Louise's key questions, I created two pivot charts to create a line chart visualization from each.
 
@@ -40,20 +39,24 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Conclusion: Outcomes based on Goals
 
-- 
+-  Less Than 1000 and 1000 to 4999 recommended
+-  Such a small sample size for campaigns with a goal greater than X, wouldn't feel comfortable recommending
+
+
+## Challenges and Limitations
 
 #### Challenges Encountered: 
  
-- Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert [name timestamp] to data type more manageable. Human error was overcome by very carefully reviewing all formulas. To convert [name timestamp], I used [formula].[how they were overcome.]
+- Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert provided Unix Timestamp to a data type more manageable. Human error was overcome by very carefully reviewing all formulas. To convert Unix Timestamp, I used '=(((J2/60)/60)/24)+DATE(1970,1,1)'.
 
 ### Dataset limitations
 
-It's important to note that this analysis is quite limited and my conclusions lack validity in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
+It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
 - Assumes quality and tactics of all campaigns held equal.
 - Small sample size amongst campaigns with larger goal. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
 - Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
 - Outcome of campaigns categorical rather than analysized by difference of pledged from goal
 
-#### Recommended Further Analysis
+## Recommended Further Analysis
 
 - [possible tables and/or graphs that we could create]
