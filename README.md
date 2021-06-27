@@ -1,18 +1,18 @@
 # Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-Louise recently wrapped up a Kickstarter crowdfunding campaign for her play, ‘Fever’. It unfortunately fell just short of goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical kickstarter campaign data to analyse.
+Louise recently wrapped up a Kickstarter crowdfunding campaign for her play, ‘Fever’. It, unfortunately, fell just short of the goal. As part of her retrospect, Louise has come to me providing me with an excel file containing historical Kickstarter campaign data to analyze.
 
 ### Purpose
-The purpose of this analysis is to glean characteristics of kickstar campaigns. Louise is particularly interested in how campaigns performed by launch date and funding goals. 
+The purpose of this analysis is to glean characteristics of Kickstarter campaigns. Louise is particularly interested in how campaigns performed by launch date and funding goals. 
 
 ---
 
 ### Overview of Analysis: 
 
-To answer Louise's key questions and provide her with actionable insights she can use when designing future kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
+To answer Louise's key questions and provide her with actionable insights she can use when designing future Kickstarter campaigns, I used Excel to manipulate, visualize, and analyze provided data.
 
-Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, provided Unix Timestamp needed to be converted to a more readable and manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application, I either filtered to Theater Parent Category or Play Sub Category.  
+Prior to performing my analysis, some data cleaning, manipulation, and filtering were needed. For example, provided Unix Timestamp needed to be converted to a more readable and manageable format. Further, 'Category' had to be split into two into 'Parents Category' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application, I either filtered to Theater Parent Category or Play Sub Category.  
 
 To explore and analyzed how campaigns performed by launch date and funding goals, I created two pivot charts to create a line chart visualization from each (below).
 
@@ -52,17 +52,17 @@ The below line chart illustrates Outcomes Based on Goals.
 
 ### Dataset limitations
 
-It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
+It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation, and tactics. 
 
-Limitation include but are not limited to:
+Limitation includes but are not limited to:
 - Assumption that the quality and tactics of all campaigns are held equal.
 - Small sample size for campaigns with larger goals. For example, there were [x] campaigns with a goal between [x] and [y] and [z] campaigns greater than [v].
 - Assumption made about different currencies; unclear as to what kind of impact FX has on the data supplied.
-- Campaign Outcome (Successful, Failed, ect.) analyzed in binary terms rather than % Missed relative to Goal. [add example of campaign missing by few dollars and succeeding by few dollars.]
+- Campaign Outcome (Successful, Failed, etc.) analyzed in binary terms rather than % Missed relative to Goal. [add an example of campaign missing by few dollars and succeeding by few dollars.]
 
 ## Recommended Further Analysis
 
 - Possible tables and/or graphs that we could create:
 - Missed percentage pivot and line chart
 - Filter analysis to country 
-- Std diviantion
+- Std deviation
