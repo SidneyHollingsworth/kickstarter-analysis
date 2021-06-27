@@ -59,4 +59,7 @@ It's important to note that this analysis is quite limited and my conclusions la
 
 ## Recommended Further Analysis
 
-- [possible tables and/or graphs that we could create]
+- Possible tables and/or graphs that we could create:
+- Missed percentage pivot and line chart
+- Filter analysis to country 
+- Std diviantion
