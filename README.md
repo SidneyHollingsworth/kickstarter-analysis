@@ -14,7 +14,7 @@ To answer Louise's key questions and provide her with actionable insights she ca
 
 Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, provided Unix Timestamp needed to be converted to a more readable and manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application, I either filtered to Theater Parent Category or Play Sub Category.  
 
-- To best address Louise's key questions, I created two pivot charts to create a line chart visualization from each.
+To address Louise's key questions, I created two pivot charts to create a line chart visualization from each (below).
 
 ### Analysis of Outcomes Based on Launch Date
 
@@ -40,7 +40,7 @@ The below line chart illustrates Outcomes Based on Goals.
 #### Conclusion: Outcomes based on Goals
 
 -  Less Than 1000 and 1000 to 4999 recommended
--  Such a small sample size for campaigns with a goal greater than X, wouldn't feel comfortable recommending
+-  Such a small sample size for campaigns with a goal greater than [X], wouldn't feel comfortable recommending
 
 
 ## Challenges and Limitations
