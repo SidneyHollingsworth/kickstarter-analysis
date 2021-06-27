@@ -48,14 +48,15 @@ The below line chart illustrates Outcomes Based on Goals.
 #### Challenges Encountered: 
  
 - Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert provided Unix Timestamp to a data type more manageable. Human error was overcome by very carefully reviewing all formulas. To convert Unix Timestamp, I used `=(((J2/60)/60)/24)+DATE(1970,1,1)`.
+[add human error example of accidentally selected wrong column than intended and took me an hour to debug.]
 
 ### Dataset limitations
 
 It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
 - Assumes quality and tactics of all campaigns held equal.
 - Small sample size for campaigns with larger goals. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
-- Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
-- Outcome of campaigns categorical rather than analysized by difference of pledged from goal
+- Assumption made about different currencies; unclear as to what kind of impact FX has on the data supplied.
+- Campaign Outcome (Successful, Failed, ect.) analyzed in binary terms rather than % Missed relative to Goal. [add example of campaign missing by few dollars and succeeding by few dollars.]
 
 ## Recommended Further Analysis
 
