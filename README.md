@@ -14,7 +14,7 @@ To answer Louise's key questions and provide her with actionable insights she ca
 
 Prior to performing my analysis, some data cleaning, manipulation, and filtering was needed. For example, provided Unix Timestamp needed to be converted to a more readable and manageble format. Further, Category had to be split into two into 'Parents Categorey' and 'Sub Category' via split text. The provided dataset included more information than needed. While data on many different types of kickstart campaigns were provided, to perform more relevant analysis for Louise's application, I either filtered to Theater Parent Category or Play Sub Category.  
 
-To address Louise's key questions, I created two pivot charts to create a line chart visualization from each (below).
+To explore and analyzed how campaigns performed by launch date and funding goals, I created two pivot charts to create a line chart visualization from each (below).
 
 ### Analysis of Outcomes Based on Launch Date
 
