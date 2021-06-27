@@ -47,8 +47,10 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Challenges Encountered: 
  
-- Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert provided Unix Timestamp to a data type more manageable. Human error was overcome by very carefully reviewing all formulas. To convert Unix Timestamp, I used `=(((J2/60)/60)/24)+DATE(1970,1,1)`.
-[add human error example of accidentally selected wrong column than intended and took me an hour to debug.]
+Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert provided Unix Timestamp to a data type more manageable. 
+
+- Human error was overcome by very carefully reviewing all formulas. [add human error example of accidentally selected wrong column than intended and took me an hour to debug.]
+- To convert Unix Timestamp, I used `=(((J2/60)/60)/24)+DATE(1970,1,1)`.
 
 ### Dataset limitations
 
