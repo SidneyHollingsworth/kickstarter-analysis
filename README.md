@@ -65,8 +65,6 @@ Limitation include but are not limited to:
 
 ## Recommended Further Analysis
 
-While one could spend unlimited amount of time viewing provided data through different filters and view, I'd prioritize the below as part of further analysis:
-
-- Missed percentage pivot and line chart
-- Filter analysis to country 
+While one could spend unlimited amount of time viewing provided data through different filters and view, I'd prioritize the below as part of further analysis creating a 'Missed Percent of Goal' pivot and line chart. 
+- [Filter analysis to country]
 - [Std deviation]
