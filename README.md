@@ -53,7 +53,7 @@ The below line chart illustrates Outcomes Based on Goals.
 
 It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation and tactics. 
 - Assumes quality and tactics of all campaigns held equal.
-- Small sample size amongst campaigns with larger goal. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
+- Small sample size for campaigns with larger goals. For example, there were x campaigns with a goal between x and y and z campaigns greater than v.
 - Assumption made about different currencies; not sure if goal and outcome data was already converted to dollars
 - Outcome of campaigns categorical rather than analysized by difference of pledged from goal
 
