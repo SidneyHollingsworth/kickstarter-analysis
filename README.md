@@ -39,8 +39,8 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Conclusion: Outcomes based on Goals
 
--  [Less Than 1000 and 1000 to 4999 recommended]
--  Such a small sample size for campaigns with a goal greater than [X], wouldn't feel comfortable recommending
+-  [While the largest delta between Percent Successful and Percent Failure greatest with goal category of [Less Than 1000 and 1000 to 4999 recommended]
+-  [Due to the small sample size of campaigns with a goal greater than $15,000, I wouldn't feel comfortable recommending]
 
 
 ## Challenges and Limitations
