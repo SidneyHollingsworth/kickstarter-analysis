@@ -35,7 +35,7 @@ The below line chart illustrates Outcomes Based on Goals.
 #### Conclusions: Outcomes based on Launch Date
 
 - Theater campaigns launched during the months of May and June performed best while theater campaigns launched during the months of November and December performed worst.
-- Percent Successful and Failure about converged during the month of December.
+- Percent Successful and Failure almost converged during the month of December.
 
 #### Conclusion: Outcomes based on Goals
 
