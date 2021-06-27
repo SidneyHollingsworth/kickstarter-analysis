@@ -55,6 +55,7 @@ The below line chart illustrates Outcomes Based on Goals.
 It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation, and tactics. 
 
 Limitation include but are not limited to:
+
 - The Assumption that the quality and tactics of all campaigns are held equal.
 - Small sample size for campaigns with larger goals. For example, there were with campaigns with a goal between $1,000 and $4,999 than total campaigns with goals greater than $4,999.
 - The Assumption made about different currencies; unclear as to what kind of impact FX has on the data supplied.
@@ -62,7 +63,8 @@ Limitation include but are not limited to:
 
 ## Recommended Further Analysis
 
-- Possible tables and/or graphs that we could create:
+While one could spend unlimited amount of time viewing provided data through different filters and view, I'd prioritize the below as part of further analysis:
+
 - Missed percentage pivot and line chart
 - Filter analysis to country 
-- Std deviation
+- [Std deviation]
