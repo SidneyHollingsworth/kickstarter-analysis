@@ -39,9 +39,8 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Conclusion: Outcomes based on Goals
 
--  [While the largest delta between Percent Successful and Percent Failure greatest with goal category of [Less Than 1000 and 1000 to 4999 recommended]
+-  If I were to recommendation a campaign goal range to Louise based on soley campaign outcome and goal, I'd recommend setting a campaign goal Less than $1,000 to $5,000. [While the largest delta between Percent Successful and Percent Failure greatest with goal category of [Less Than 1000 and 1000 to 4999 recommended]
 -  [Due to the small sample size of campaigns with a goal greater than $15,000, I wouldn't feel comfortable recommending]
-
 
 ## Challenges and Limitations
 
