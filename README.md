@@ -39,8 +39,8 @@ The below line chart illustrates Outcomes Based on Goals.
 
 #### Conclusion: Outcomes based on Goals
 
--  If I were to recommendation a campaign goal range to Louise based on soley campaign outcome and goal, I'd recommend setting a campaign goal of Less than $1,000 to $5,000. [While the largest delta between Percent Successful and Percent Failure greatest with goal category of [Less Than 1000 and 1000 to 4999 recommended]
--  Due to the small sample size of campaigns with a goal greater than $15,000, I wouldn't feel comfortable giving a recommendation of confidence
+-  If I were to recommend a campaign goal range to Louise based on solely campaign outcome and goal, I'd recommend setting a campaign goal of Less than $1,000 to $5,000.
+-  Due to the small sample size of campaigns with a goal greater than $15,000, I wouldn't feel comfortable giving a recommendation of confidence.
 
 ## Challenges and Limitations
 
@@ -48,22 +48,19 @@ The below line chart illustrates Outcomes Based on Goals.
  
 Difficulties encountered when performing my analysis included human error, namely typos in my excel formulas, and having to convert provided Unix Timestamp to a data type more manageable. 
 
-- Human error was overcome by very carefully reviewing all formulas. I had accidentally selected the wrong column when calculating a `=COUNTIF()` formula. It took me an about 30min to catch my mistake.
+- Human error was overcome by very carefully reviewing all formulas. I had accidentally selected the wrong column when calculating a `=COUNTIF()` formula. It took me about 30min to catch my mistake.
 - To convert Unix Timestamp, I used `=(((J2/60)/60)/24)+DATE(1970,1,1)`.
 
 ### Dataset limitations
+It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, the campaign launch date is of lesser importance than messaging, audience segmentation, and tactics. 
 
-It's important to note that this analysis is quite limited and my conclusions lack confident reliability in application. This project was particularly challenging to me as per the many unknowns and lack of provided context. As a former Marketing Data Analyst, campaign launch date is of lesser importance than messaging, audience segmentation, and tactics. 
-
-Limitation include but are not limited to:
+Limitations include but are not limited to:
 
 - The Assumption that the quality and tactics of all campaigns are held equal.
-- Small sample size for campaigns with larger goals. For example, there were with campaigns with a goal between $1,000 and $4,999 than total campaigns with goals greater than $4,999.
+- Small sample size for campaigns with larger goals. For example, there were more campaigns with a goal between $1,000 and $4,999 than total campaigns with goals greater than $4,999.
 - The Assumption made about different currencies; unclear as to what kind of impact FX has on the data supplied.
-- Campaign Outcome (Successful, Failed, etc.) analyzed in binary terms rather than % Missed relative to Goal. For example, the 'Blood Wedding at Fredriksdal' campaign was short $824 of goal but thats just 1% difference. 
+- Campaign Outcome (Successful, Failed, etc.) analyzed in binary terms rather than % Missed relative to Goal. For example, the 'Blood Wedding at Fredriksdal' campaign was short $824 of goal but that's just a 1% difference. 
 
 ## Recommended Further Analysis
 
-While one could spend unlimited amount of time viewing provided data through different filters and view, I'd prioritize the below as part of further analysis creating a 'Missed Percent of Goal' pivot and line chart. 
-- [Filter analysis to country]
-- [Std deviation]
+While one could spend an unlimited amount of time viewing provided data through different filters and views, I'd prioritize the below as part of further analysis creating a 'Missed Percent of Goal' pivot and line chart. After that, it'd be worth filter analysis to country and separately, analyzing standard deviation.
